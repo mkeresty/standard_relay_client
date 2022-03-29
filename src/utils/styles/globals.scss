@@ -1,0 +1,36 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto';
+    height: 100%;
+    color: #fff;
+    background-color: #1d1d1d;
+
+}
+
+#__next {
+  height: 100%
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.page {
+  height: 100%;
+  background-color: #1d1d1d;
+  padding: 50px;
+}
+
+.aligned-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
